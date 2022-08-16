@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* style of navbar */
+.sliderimg{
+    height: calc(100vh - 56px) !important;
+}
+.unorderli{ 
+    list-style-type: none;
+}
+.unorderli a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 3px;
+}
+/* start style of first section */
+.firstsection{
+    overflow: auto;
+}
+/* style of footer */
+.foot{
+    overflow: auto;
+   }
+   .copy{
+       height: 25px;
+   }
+   
